@@ -19,5 +19,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 -
 
-## 소개글
+## About Me
+---
 **Data Analyst, Data Engineer, Data Scientist, Machine-learning Engineer** 분야 지망생입니다
