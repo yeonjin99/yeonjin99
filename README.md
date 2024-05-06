@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Profile&color=0:EEFF00,100:a82da8)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=AI Developer&color=0:EEFF00,100:a82da8)
 
 <div align="center">
   :blush:Welcome my github profile !:blush:
@@ -20,4 +20,15 @@
 -
 
 ## About Me
-**Data Analyst, Data Engineer, Data Scientist, Machine-learning Engineer** 분야 지망생입니다
+안녕하세요 지속적인 배움과 성장으로, 지식을 공유하고 소통하는 과정을 통해 함께 성장하는 것을 중요하게 생각합니다.
+
+유동인구 데이터를 활용한 분석 프로젝트를 수행하였으며, AI 프로젝트로는 번역 및 요약 자연어처리 프로젝트와, TTS 생성 프로젝트, 도메인 특화 챗봇 생성 프로젝트를 진행했습니다. 이를 통해 적극적으로 지식을 공유하고, 상호 발전을 위해 노력합니다.
+
+💼 Experience
+- DANVI[2021.03.01 ~ 2021.08.31] Intern
+- SSVT[2023.12.11 ~ NOW]
+
+🤝 Contact
+- 📧 Email: jinlove5378@naver.com
+
+📜 Blog: https://yeonjinj.tistory.com/
