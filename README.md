@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=AI Developer&color=0:EEFF00,100:a82da8)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=AIDeveloper&color=0:EEFF00,100:a82da8)
 
 <div align="center">
   :blush:Welcome my github profile !:blush:
