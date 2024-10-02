@@ -29,11 +29,10 @@
 - SSVT[2023.12.11 ~ NOW]
 
 💻 Project
-- BI/DW
-
+### BI/DW
 [지하철 이용량 분석 프로젝트](https://github.com/yeonjin99/SUBWAY-DASHBOARD.git)
 
-- AI
+### AI
 [얼굴 바꾸기 프로젝트](https://github.com/yeonjin99/Change-face.git)
   
 🤝 Contact
