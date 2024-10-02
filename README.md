@@ -29,10 +29,13 @@
 - SSVT[2023.12.11 ~ NOW]
 
 💻 Project
-- Dashboard
+- BI/DW
 
 [지하철 이용량 분석 프로젝트](https://github.com/yeonjin99/SUBWAY-DASHBOARD.git)
 
+- AI
+
+  
 🤝 Contact
 - 📧 Email: jinlove5378@naver.com
 
