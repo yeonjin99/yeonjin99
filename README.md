@@ -34,7 +34,7 @@
 [지하철 이용량 분석 프로젝트](https://github.com/yeonjin99/SUBWAY-DASHBOARD.git)
 
 - AI
-
+[얼굴 바꾸기 프로젝트](https://github.com/yeonjin99/Change-face.git)
   
 🤝 Contact
 - 📧 Email: jinlove5378@naver.com
