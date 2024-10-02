@@ -24,18 +24,18 @@
 
 유동인구 데이터를 활용한 분석 프로젝트를 수행하였으며, AI 프로젝트로는 번역 및 요약 자연어처리 프로젝트와, TTS 생성 프로젝트, 도메인 특화 챗봇 생성 프로젝트를 진행했습니다. 이를 통해 적극적으로 지식을 공유하고, 상호 발전을 위해 노력합니다.
 
-💼 Experience
+## 💼 Experience
 - DANVI[2021.03.01 ~ 2021.08.31] Intern
 - SSVT[2023.12.11 ~ NOW]
 
-💻 Project
+## 💻 Project
 ### BI/DW
 [지하철 이용량 분석 프로젝트](https://github.com/yeonjin99/SUBWAY-DASHBOARD.git)
 
 ### AI
-[얼굴 바꾸기 프로젝트](https://github.com/yeonjin99/Change-face.git)
+
   
-🤝 Contact
+## 🤝 Contact
 - 📧 Email: jinlove5378@naver.com
 
-📜 Blog: https://yeonjinj.tistory.com/
+## 📜 Blog: https://yeonjinj.tistory.com/
