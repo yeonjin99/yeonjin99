@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=AIDeveloper&color=0:EEFF00,100:a82da8)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=PortFolio&color=0:EEFF00,100:a82da8)
 
 <div align="center">
   :blush:Welcome my github profile !:blush:
@@ -30,14 +30,18 @@
 - 세정아이앤씨[2024.07.15 ~ 2024.10.14] Intern(Data Engineer)
 
 ## 💻 Project
-### BI/DW
-[지하철 이용량 분석 프로젝트](https://github.com/yeonjin99/SUBWAY-DASHBOARD.git)
-
 ### AI
+[FaceChange](https://github.com/yeonjin99/Change-face.git)
 
-  
+### Data Engineer
+[자연어처리 프로젝트](https://github.com/yeonjin99/mallang.git)
+[지하철 이용량 분석 프로젝트](https://github.com/yeonjin99/SUBWAY-DASHBOARD.git)
+[사투리 아재개그](https://github.com/yeonjin99/aze.git)
+
+
 ## 🤝 Contact
 - 📧 Email: jinlove5378@naver.com
 
-## 📜 Blog
+## 📜 Blog & Portfolio
 [개발 블로그](https://yeonjinj.tistory.com/)
+[포트폴리오](https://inquisitive-port-990.notion.site/Jin-s-portfolio-55d3e4282fbf41a39f3c220fb8b7d640)
