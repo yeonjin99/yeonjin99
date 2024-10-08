@@ -26,7 +26,8 @@
 
 ## 💼 Experience
 - DANVI[2021.03.01 ~ 2021.08.31] Intern
-- SSVT[2023.12.11 ~ NOW]
+- SSVT[2023.12.11 ~ 2024.05.13] AI Developer
+- 세정아이앤씨[2024.07.15 ~ 2024.10.14] Intern(Data Engineer)
 
 ## 💻 Project
 ### BI/DW
