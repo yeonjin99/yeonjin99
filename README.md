@@ -33,7 +33,9 @@
 
 ### Data Engineer
 [자연어처리 프로젝트](https://github.com/yeonjin99/mallang.git)
+
 [지하철 이용량 분석 프로젝트](https://github.com/yeonjin99/SUBWAY-DASHBOARD.git)
+
 [사투리 아재개그](https://github.com/yeonjin99/aze.git)
 
 
