@@ -39,4 +39,5 @@
 ## 🤝 Contact
 - 📧 Email: jinlove5378@naver.com
 
-## 📜 Blog: https://yeonjinj.tistory.com/
+## 📜 Blog
+[개발 블로그](https://yeonjinj.tistory.com/)
